@@ -3,6 +3,13 @@
   <groupId>PetStoreAutomation</groupId>
   <artifactId>PetStoreAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+	
+    <properties>
+        <!-- Set the Java version -->
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
   <build>
     <pluginManagement>
     
